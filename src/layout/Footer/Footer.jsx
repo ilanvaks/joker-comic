@@ -11,6 +11,7 @@ export default function Footer () {
         <Row>
           <Col>
           <p>Footer</p>
+          <p>Footer</p>
           </Col>
         </Row>
       </Container>
