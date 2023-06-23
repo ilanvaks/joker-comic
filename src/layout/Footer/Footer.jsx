@@ -12,6 +12,7 @@ export default function Footer () {
           <Col>
           <p>Footer</p>
           <p>Footer</p>
+          <p>Footer</p>
           </Col>
         </Row>
       </Container>
