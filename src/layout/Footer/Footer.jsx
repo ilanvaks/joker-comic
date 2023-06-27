@@ -1,4 +1,4 @@
-import { Container } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 
 
 
@@ -10,9 +10,6 @@ export default function Footer () {
       <Container>
         <Row>
           <Col>
-          <p>Footer</p>
-          <p>Footer</p>
-          <p>Footer</p>
           <p>Footer</p>
           </Col>
         </Row>

@@ -9,10 +9,11 @@ const Home = () => {
   return (
     <AppLayout>
       <section>
-      <Container fluid className="visual-board">
+      <Container fluid className="joker-cover">
         <Row className="g-0">
           <Col lg={5}>
-            <Image src={imageUri + "city-vertical.jpg"} />
+            <Image fluid src={imageUri + "jokerCover.jpg"} />
+            <p> <span> Far Long Ago... </span> </p>
           </Col>
 
           <Col lg={7}>
