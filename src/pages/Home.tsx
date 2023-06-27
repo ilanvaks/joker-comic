@@ -43,8 +43,8 @@ const Home: React.FC = () => {
 
           <Row className="g-0">
             <Col lg={4}><ImageWithModal src={imageUri + "burnDownTown.jpg"} /></Col>
-            <Col lg={4}><ImageWithModal src={imageUri + "BatManLabWatch.jpg"} /></Col>
-            <Col lg={4}><ImageWithModal src={imageUri + "BatManLab2.jpg"} /></Col>
+            <Col lg={4}><ImageWithModal src={imageUri + "BatmanLabWatch.jpg"} /></Col>
+            <Col lg={4}><ImageWithModal src={imageUri + "BatmanLab2.jpg"} /></Col>
           </Row>
 
           <Row className="g-0">
