@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.text-center {
+  color: red; 
+  font-size: 40px; 
+  font-weight: bold; 
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-shadow: 2px 2px 4px #000000;
+  text-align: center;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.text-center:hover {
+  color: yellow;
+  text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FFD700;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.no-underline {
+text-decoration: none;
+}
