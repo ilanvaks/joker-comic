@@ -69,7 +69,7 @@ const Home: React.FC = () => {
             textShadow: '2px 2px 4px #000000',
             textAlign: 'center'
           }}> 
-            TO BE CONTINUED 
+            TO BE CONTINUED ...
           </p>
         </a>
 
