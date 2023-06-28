@@ -1,5 +1,6 @@
 import { Container, Row, Col, Image, Modal, Button } from "react-bootstrap";
 import AppLayout from "../layout/AppLayout";
+import OffCanvasQuiz from "./Cover"
 import React, { useState } from 'react';
 
 interface ImageWithModalProps {
@@ -27,6 +28,9 @@ const Home: React.FC = () => {
 
   return (
     <AppLayout>
+      <div>
+      <OffCanvasQuiz/>
+      </div>
       <section>
         <Container fluid className="joker-cover">
           <Row className="g-0">
