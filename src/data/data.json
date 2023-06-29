@@ -1,0 +1,66 @@
+[
+{
+  "id": 0,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/jokerTrying.jpg"
+},
+{
+  "id": 1, 
+  "image": "https://pictures-portfolio.s3.amazonaws.com/JokerStandUP.jpg"
+},
+{
+  "id": 2,
+  "image":"https://pictures-portfolio.s3.amazonaws.com/emptyAud.jpg"
+},
+{
+  "id": 3,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/emptyAud.jpg"
+},
+{
+  "id": 4,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/jokerMirror.jpg"
+},
+{
+  "id": 5,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/jokerCover.jpg" 
+},
+{
+  "id": 6,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/Joker-Charge.jpg"
+},
+{
+  "id": 7,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/burnDownTown.jpg"
+},
+{
+  "id": 8,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/BatmanLabWatch.jpg"
+},
+{
+  "id": 9,
+  "image": "https://pictures-portfolio.s3.amazonaws.com/BatmanLab2.jpg"
+},
+{
+  "id": 10, 
+  "image": "https://pictures-portfolio.s3.amazonaws.com/BatMobile.jpg"
+},
+{
+  "id": 11, 
+  "image": "https://pictures-portfolio.s3.amazonaws.com/batmobile2.jpg"
+},
+{
+  "id": 12, 
+  "image": "https://pictures-portfolio.s3.amazonaws.com/batmanFight.jpg"
+},
+{
+  "id": 13, 
+  "image": "https://pictures-portfolio.s3.amazonaws.com/jokerStreets.jpg"
+},
+{
+  "id" : 14, 
+  "image": "https://pictures-portfolio.s3.amazonaws.com/BatmanStandOFF.jpg"
+},
+{
+  "id": 15, 
+  "image": "https://pictures-portfolio.s3.amazonaws.com/JokerStandOFF.jpg"
+}
+]
