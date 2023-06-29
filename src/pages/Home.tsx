@@ -34,9 +34,9 @@ const Home: React.FC = () => {
 
   return (
     <AppLayout>
-      <div>
-      <OffCanvasQuiz/>
-      </div>
+       <div style={{ marginBottom: '20px' }}>
+    <OffCanvasQuiz/>
+  </div>
       <section>
         <Container fluid className="joker-cover">
           <Row className="g-0">
