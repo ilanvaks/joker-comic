@@ -12,7 +12,7 @@ export default function Footer() {
           target="_blank"
           rel="noreferrer"
           className="button-effect">
-          <Github size='40' className="github-icon"/>
+          <Github size='50' className="github-icon"/>
         </a>
         <div>
           <small className="footer-small-text">&copy; {currentYear} Ilan Vaks </small>
