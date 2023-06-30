@@ -28,7 +28,6 @@ const OffCanvasSummary: React.FC = () => {
             <Offcanvas.Title>{summary.title}</Offcanvas.Title>
           </Offcanvas.Header>
           <Offcanvas.Body>
-            {/* Here is the summary text */}
             <p>{summary.synopsis}</p>
           </Offcanvas.Body>
         </Offcanvas>
