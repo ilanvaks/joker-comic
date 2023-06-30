@@ -20,9 +20,9 @@ const OffCanvasSummary: React.FC = () => {
   return (
     <>
       <div className='off-cover'>
-        <Button variant="primary" onClick={handleShow}>
+        <button onClick={handleShow}>
           Open Summary
-        </Button>
+        </button>
         <Offcanvas show={show} onHide={handleClose}>
           <Offcanvas.Header closeButton>
             <Offcanvas.Title>{summary.title}</Offcanvas.Title>
