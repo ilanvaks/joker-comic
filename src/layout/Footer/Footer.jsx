@@ -18,6 +18,9 @@ export default function Footer() {
           <small className="footer-small-text">&copy; {currentYear} Ilan Vaks </small>
         </div>
       </p>
+      <p>
+        footer
+      </p>
     </footer>
   )
 }
