@@ -20,6 +20,7 @@ export default function Footer() {
       </p>
       <p>
         footer
+        footer
       </p>
     </footer>
   )
