@@ -21,7 +21,7 @@ const OffCanvasSummary: React.FC = () => {
     <>
       <div className='off-cover'>
         <button onClick={handleShow}>
-          Open Summary
+        Summary
         </button>
         <Offcanvas show={show} onHide={handleClose}>
           <Offcanvas.Header closeButton>
