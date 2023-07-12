@@ -21,6 +21,7 @@ export default function Footer() {
       <p>
         footer
         footer
+        footer
       </p>
     </footer>
   )
